@@ -1365,4 +1365,6 @@ header .navbar-nav {
 .topper {
 	/*background: #fff;*/
 	color: #f7bb00;
+	margin-bottom: -15px;
+    margin-top: 5px;
 }
